@@ -1,15 +1,15 @@
 [
   {
     "text": "I hate my life",
-    "category": "flag"
+    "category": "unsafe"
   },
   {
     "text": "I am sad",
-    "category": "flag"
+    "category": "unsafe"
   },
   {
     "text": "I hate everything",
-    "category": "flag"
+    "category": "unsafe"
   },
   {
     "text": "I feel amazing",
@@ -17,11 +17,11 @@
   },
   {
     "text": "I have fake friends , I feel like dying",
-    "category": "flag"
+    "category": "unsafe"
   },
   {
     "text": "What is death like?",
-    "category": "flag"
+    "category": "unsafe"
   },
   {
     "text": "I feel amazing",
